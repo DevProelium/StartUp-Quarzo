@@ -14,5 +14,6 @@
 - Este es el resumen inicial de la idea para la startup
 - [[Plan de negocios]]
 - [[Producto mínimo viable]]
-- [[Descripción Tecnica]]
--
+- [[Descripción Técnica]]
+- [[Nombres para la Startup?]]
+- Básicamente en este primer grafo vaciaremos nuestras ideas para la parte de la preproduccion del proyecto.
