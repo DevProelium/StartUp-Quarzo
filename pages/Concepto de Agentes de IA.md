@@ -6,4 +6,6 @@
 -
 - Para mantener esto se requiere en muchas ocasiones y para amortiguar gastos que una empresa especializada en el sistema en cuestión se encargue del mantenimiento , todo esto con base en normas nacionales e internacionales. 
   
-  Nuestra aplicación entra en escena resolviendo problemas propios de estos servicios , brindando seguridad de que el trabajo se realiza conforme a la normatividad aplicable, en tiempo
+  Nuestra aplicación entra en escena resolviendo problemas propios de estos servicios , brindando seguridad de que el trabajo se realiza conforme a la normatividad aplicable, en tiempo y forma , esto con Reportes digitales , que tanto el cliente como el supervisor puedan revisar inmediatamente después de realizado el mantenimiento.
+-
+- Un ejemplo de esta mecanica es en el hipotetico caso de la revision de un cuarto de bombas de agua destinada al sistema de
