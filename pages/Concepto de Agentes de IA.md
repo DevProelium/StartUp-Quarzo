@@ -8,4 +8,5 @@
   
   Nuestra aplicación entra en escena resolviendo problemas propios de estos servicios , brindando seguridad de que el trabajo se realiza conforme a la normatividad aplicable, en tiempo y forma , esto con Reportes digitales , que tanto el cliente como el supervisor puedan revisar inmediatamente después de realizado el mantenimiento.
 -
-- Un ejemplo de esta mecanica es en el hipotetico caso de la revision de un cuarto de bombas de agua destinada al sistema de
+- Un ejemplo de esta mecánica es en el hipotético caso de la revisión de un cuarto de bombas de agua destinada al sistema de hidrantes vs incendio de una nave industrial, requiere que el sistema este listo 24 /7 para contrarrestar un conato de incendio
+-
