@@ -16,4 +16,6 @@
 - [[Producto mínimo viable]]
 - [[Descripción Técnica]]
 - [[Nombres para la Startup?]]
-- Básicamente en este primer grafo vaciaremos nuestras ideas para la parte de la preproduccion del proyecto.
+- Básicamente en este primer grafo vaciaremos nuestras ideas para la parte de la preproducción del proyecto.
+- [[Preparativos preeliminares]]
+-
