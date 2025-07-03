@@ -1,0 +1,1 @@
+- La idea para esta startup es la creacion de agentes de ia que ayuden a los supervisores e inspectores en campo de las industrias del servico
