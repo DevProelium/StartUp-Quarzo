@@ -10,12 +10,10 @@
   sudo apt upgrade
 - Paso 2: Instalar Nginx
   Para instalar Nginx, ejecuta el siguiente comando:
-- Copiar
-  sudo apt install nginx
+- sudo apt install nginx
   Paso 3: Iniciar y habilitar Nginx
   Una vez instalado, inicia el servicio Nginx y habilítalo para que se inicie automáticamente al arrancar el sistema.
-- Copiar
-  sudo systemctl start nginx
+- sudo systemctl start nginx
   sudo systemctl enable nginx
   Paso 4: Verificar el estado de Nginx
   Para asegurarte de que Nginx se está ejecutando correctamente, verifica su estado:
