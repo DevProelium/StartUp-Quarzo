@@ -69,10 +69,10 @@
   - Página Dedicada
   Para más información sobre Nginx, puedes visitar la página oficial de Nginx.
   
-  GPT-4o mini:
-  Aquí tienes el contenido transformado a formato Markdown para tu Logseq:
+  GPT o gemini pueden ayudar a resolver dudas:
+  Aquí tienes el contenido para la configuracion de nginx en linux:
   
-  ```markdown
+  own
 - # Nginx
 - ## Descripción
   Nginx es un servidor web de alto rendimiento, también conocido por su capacidad para actuar como proxy inverso, balanceador de carga y caché HTTP. Es conocido por su alta concurrencia, bajo consumo de memoria y su arquitectura asincrónica.
