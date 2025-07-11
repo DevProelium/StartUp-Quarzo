@@ -3,5 +3,9 @@
 - [[Nginx]]
 - [[N8N]]
 - [[OpenwebUI]]
+- [[Odoo]]
+- [[Qdrant]]
+- [[PostgreSql]]
+- [[NextCloud]]
 -
 -
