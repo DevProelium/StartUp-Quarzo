@@ -13,6 +13,9 @@
 - [[Flutter]]
 - [[RAG]]
 - [[Embedinggs]]
+- [[CloudFlare]]
+- [[FireWall]]
+- [[Python]]
 -
 -
 -
