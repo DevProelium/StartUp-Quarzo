@@ -17,6 +17,7 @@
 - [[FireWall]]
 - [[Python]]
 - [[Docker]]
+- [[Penpot]]
 -
 -
 - [[Concepto de Agentes de IA]]
