@@ -1,2 +1,3 @@
 - Agente Central automatizado con N8N
+- [[Ubuntu 24]]
 -
