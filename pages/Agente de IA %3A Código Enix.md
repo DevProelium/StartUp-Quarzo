@@ -11,5 +11,7 @@
 - [[AndroidStudio]]
 - [[Lm Studio]]
 - [[Flutter]]
+- [[RAG]]
+- [[Embedinggs]]
 -
 -
