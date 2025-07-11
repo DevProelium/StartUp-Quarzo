@@ -7,5 +7,7 @@
 - [[Qdrant]]
 - [[PostgreSql]]
 - [[NextCloud]]
+- [[Visual Studio Code]]
+- [[AndroidStudio]]
 -
 -
