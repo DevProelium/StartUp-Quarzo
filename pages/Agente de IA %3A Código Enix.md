@@ -9,5 +9,7 @@
 - [[NextCloud]]
 - [[Visual Studio Code]]
 - [[AndroidStudio]]
+- [[Lm Studio]]
+- [[Flutter]]
 -
 -
