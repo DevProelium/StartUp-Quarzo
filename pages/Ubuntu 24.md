@@ -1,12 +1,12 @@
-- Descripción de Ubuntu 24.04
+- **Descripción de Ubuntu 24.04**
   Ubuntu 24.04, también conocido como Noble Numbat, es una de las distribuciones más populares de Linux, conocida por su facilidad de uso y su robustez. Es ideal tanto para principiantes como para usuarios avanzados, y es ampliamente utilizado en entornos de desarrollo y servidores. Ubuntu 24.04 continúa la tradición de ofrecer una experiencia de usuario fluida y una gran cantidad de software preinstalado y disponible a través de sus repositorios.
-- Tips para Ubuntu 24.04
+- **Tips para Ubuntu 24.04**
   Actualizaciones Regulares: Mantén tu sistema actualizado ejecutando regularmente sudo apt update && sudo apt upgrade en la terminal.
   Uso de Workspaces: Ubuntu permite el uso de múltiples workspaces para organizar mejor tus ventanas. Puedes cambiar entre ellos usando Super + PageUp y Super + PageDown.
   Instalación de Software: Utiliza el Centro de Software de Ubuntu para instalar aplicaciones de manera gráfica o la terminal para mayor control.
-  Personalización con GNOME Tweaks: Instala GNOME Tweaks para personalizar la apariencia y el comportamiento de tu escritorio.
-  Uso de Snap y Flatpak: Además de los paquetes tradicionales .deb, Ubuntu soporta Snap y Flatpak para instalar aplicaciones.
-  Hotkeys Útiles
+- Personalización con GNOME Tweaks: Instala GNOME Tweaks para personalizar la apariencia y el comportamiento de tu escritorio.
+- Uso de Snap y Flatpak: Además de los paquetes tradicionales .deb, Ubuntu soporta Snap y Flatpak para instalar aplicaciones.
+- **Hotkeys Útiles**
   Combinación de Teclas	Descripción
   Super (Windows)	Abrir el menú de actividades
   Super + A	Abrir el menú de aplicaciones
